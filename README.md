@@ -29,6 +29,11 @@
 
  ---
 
+ ## About me
+I am a student of Software Development, with a strong interest in machine learning and its application in solving complex problems. I have acquired skills in programming (Python, Java) and have explored tools and libraries such as TensorFlow and Scikit-learn through academic and personal projects. I am passionate about learning about machine learning algorithms and data analysis, and I am motivated to apply my knowledge in real-world settings. I seek opportunities to grow in the field of artificial intelligence and contribute to innovative projects that turn data into effective solutions.
+
+<hr/>
+
 ## 💼 **Projects**  
 Here are some of the projects I have developed:
 ### 1. 🪞 **Land Use And Wildlife DL Semantic Segmentation - Roboflow**  
@@ -38,7 +43,7 @@ Here are some of the projects I have developed:
 - [🔗 Repositorio](https://github.com/randyRivera0/LandUseAndWildlifeDLSemanticSegmentation.git)
 
 <div align="center">
-    <img src="images/LandUseAndWildlifeDLSemanticSegmentation.png" alt="LandUseAndWildlifeDLSemanticSegmentation" width="300" />
+    <img src="images\LandUseAndWildlifeDLSemanticSegmentation.png" alt="LandUseAndWildlifeDLSemanticSegmentation" width="300" />
 </div>
 
 ### 2. 💡 **Broker Backend**  
@@ -47,7 +52,7 @@ Here are some of the projects I have developed:
 - [🔗 Repositorio](https://github.com/randyRivera0/Task-Management-Web-Backend-RabbitMQ-SQLite/tree/back)
 
 <div align="center">
-    <img src="images/LandUseAndWildlifeDLSemanticSegmentation.png" alt="Broker Backend" width="300" />
+    <img src="images\img_task_management_back.png" alt="Broker Backend" width="300" />
 </div>
 
 ### 3. 🌐 **EDA Billionaires - DF, Pandas, Seaborn**  
@@ -56,7 +61,7 @@ Here are some of the projects I have developed:
 - [🔗 Repositorio](https://github.com/randyRivera0/EDA-Billionaires-Pandas-Seaborn)
 
 <div align="center">
-    <img src="images/LandUseAndWildlifeDLSemanticSegmentation.png" alt="EDA Billionaires - DF, Pandas, Seaborn" width="300" />
+    <img src="images\img_EDA_Billionaires.png" alt="EDA Billionaires - DF, Pandas, Seaborn" width="300" />
 </div>
 ---
  
@@ -67,8 +72,13 @@ Here are some of the projects I have developed:
 </div>
 
 <br/>
+<div align="center">
+<h3>What I've learned in the course Web and Mobile App Design:</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,react" /><br>
+</div>
 <hr/>
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -76,20 +86,15 @@ Here are some of the projects I have developed:
   
   <br/><br/><br/>
 </div>
-
+-->
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=randyRivera0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=randyRivera0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=randyRivera0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyRivera0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
