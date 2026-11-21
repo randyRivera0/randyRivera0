@@ -1,100 +1,41 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=randyRivera0.randyRivera0" />
+<h1 align="center">Hi, I'm Randy Rivera 👋</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Randy+Rivera!;" />
-</h1>
-
-<h3 align="center">A computer science student passionate about deep learning 🧠🤖 </h3>
+<h3 align="center">Building towards a more sustainable world with technology 🌱🤖 </h3>
 
 <br/>
 
 <div align="center">
  
-🌱 I’m currently learning **computer vision with yolo, sam and sahi**
-
-💬 Ask me about **Java, Python, React, Software Design... or anything [here](https://github.com/randyRivera0)**
+🧠 I’m currently learning **advanced Python, deep learning and reinforcement learning**
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:rariberm@espol.edu.ec">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/randy-adley-rivera-bermudez-251555298/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+> **English: C1 - Cambridge certified**
+
+## Contact
+
+Email: `rariberm@espol.edu.ec`  
+LinkedIn: `https://www.linkedin.com/in/randy-adley-rivera-bermudez-251555298/`
 
  <hr/>
 
  ---
 
- ## About me
-I am a student of Software Development, with a strong interest in machine learning and its application in solving complex problems. I have acquired skills in programming (Python, Java) and have explored tools and libraries such as TensorFlow and Scikit-learn through academic and personal projects. I am passionate about learning about machine learning algorithms and data analysis, and I am motivated to apply my knowledge in real-world settings. I seek opportunities to grow in the field of artificial intelligence and contribute to innovative projects that turn data into effective solutions.
+## About me
 
-<hr/>
+I'm Randy Rivera, a computer science engineering student at ESPOL in my final semester, currently working on my capstone course. I want to create projects that use technology to help people and contribute to a more sustainable future. I'm motivated by the possibilities of combining software, artificial intelligence, and science to tackle meaningful problems.
 
-## 💼 **Projects**  
-Here are some of the projects I have developed:
-### 1. 🪞 **Land Use And Wildlife DL Semantic Segmentation - Roboflow**  
-- **Description:**  Utilized drone imagery to develop a semantic segmentation model aimed at tracking animal locations across different land uses in the Galapagos Islands. By leveraging Roboflow for data preprocessing and model training, the project enhances the accuracy of land classification and wildlife detection. This information enables biologists to study animal behavior and implement targeted conservation strategies, ultimately contributing to the protection of this unique ecosystem.
+Python is my main language, and I use TypeScript for apps and frontend development. I'm interested in artificial intelligence and reinforcement learning, and in applying them to useful problems. I've explored Unity ML-Agents and Gymnasium, and I'm beginning to learn ROS 2.
 
-- **Used technologies:** YOLO, SAHI, SAM, Roboflow.  
-- [🔗 Repositorio](https://github.com/randyRivera0/LandUseAndWildlifeDLSemanticSegmentation.git)
+## What I'm exploring
 
-<div align="center">
-    <img src="images\LandUseAndWildlifeDLSemanticSegmentation.png" alt="LandUseAndWildlifeDLSemanticSegmentation" width="300" />
-</div>
+- Advanced Python, its internals, and how native libraries work
+- Machine learning, deep learning, reinforcement learning, and robotics
+- Linux, computer science fundamentals, and low-level systems
+- Mathematics and the sciences, especially physics and chemistry, which I'm curious to learn more about
+- Sustainable development and technology with a positive impact
 
-### 2. 💡 **Broker Backend**  
-- **Description:** Developed a task management system that integrates RabbitMQ for real-time communication, SQLite3 for lightweight data storage, and Docker for containerization, all of which are open source and free to use. Users can create, assign, and track tasks while receiving seamless notifications and updates through message queues. RabbitMQ ensures reliable and asynchronous communication between the frontend and backend services, enhancing responsiveness. SQLite3 provides a simple yet effective database solution for managing task data, while Docker allows for easy deployment and scaling across various environments. 
-- **Used technologies:** RabbitMQ, SQLite, Docker.  
-- [🔗 Repositorio](https://github.com/randyRivera0/Task-Management-Web-Backend-RabbitMQ-SQLite/tree/back)
+## Languages
 
-<div align="center">
-    <img src="images\img_task_management_back.png" alt="Broker Backend" width="300" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,typescript" alt="Python and TypeScript" />
 
-### 3. 🌐 **EDA Billionaires - DF, Pandas, Seaborn**  
-- **Description:** Exploratory data analysis (EDA) of billionaire wealth trends utilizing Python's Pandas and Seaborn libraries. This project involved cleaning and preprocessing large datasets to uncover insights into wealth distribution, demographic patterns, and economic influences. By employing visualizations such as scatter plots, bar graphs, and heatmaps, I effectively illustrated key findings, facilitating data-driven decision-making. 
-- **Used technologies:** Pandas, Seaborn.  
-- [🔗 Repositorio](https://github.com/randyRivera0/EDA-Billionaires-Pandas-Seaborn)
-
-<div align="center">
-    <img src="images\img_EDA_Billionaires.png" alt="EDA Billionaires - DF, Pandas, Seaborn" width="300" />
-</div>
----
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn,anaconda,pytorch,tensorflow,latex" /><br>
-</div>
-
-<br/>
-<div align="center">
-<h3>What I've learned in the course Web and Mobile App Design:</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,react" /><br>
-</div>
-<hr/>
-
-<!--
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/randyRivera0/randyRivera0/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
--->
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<!--
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=randyRivera0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=randyRivera0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyRivera0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
